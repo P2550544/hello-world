@@ -1,2 +1,3 @@
 # hello-world
-creating a hello-world program 
+Creating a hello-world program. 
+This is the edited message with proper grammer.
